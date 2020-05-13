@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "914922829552",
+    "firebase_url": "https://myplaces4-lab2.firebaseio.com",
+    "project_id": "myplaces4-lab2",
+    "storage_bucket": "myplaces4-lab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914922829552:android:e80ee8c4ce5f8c75887435",
+        "android_client_info": {
+          "package_name": "com.example.milos.myplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914922829552-b0360huh35v1djok5fkdk9sjhcotase6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.milos.myplaces",
+            "certificate_hash": "05b6f2de3beaf3d5e92f7d3b63160b2b14224c2d"
+          }
+        },
+        {
+          "client_id": "914922829552-th1bkd8g6hetfnkbg1mk8ajb28rql73s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb5I0eo2eCWgp7N7hAxOpMmSnWBzQMtc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914922829552-th1bkd8g6hetfnkbg1mk8ajb28rql73s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
